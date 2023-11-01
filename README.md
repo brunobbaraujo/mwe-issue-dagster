@@ -1,3 +1,5 @@
 # Dagster issue with schedule
 
-Open the UI -> Overview -> Schedule -> Test Schedule.
+1. Run the command `dagster dev`
+2. Open the UI
+3. Go to Overview -> Schedules -> Asset1_job_schedule -> Test Schedule.
